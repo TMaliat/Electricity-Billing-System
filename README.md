@@ -7,9 +7,14 @@ In this project,a pre-registered admin is given the access to the system to thei
 
 For this project,the development kit includes:
 -> Java
+
 -> JavaFX
+
 -> Intellij idea ultimate IDE
+
 -> Scene builder
+
 -> MySQL
+
 -> CSS
 
